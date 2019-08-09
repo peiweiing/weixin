@@ -1,0 +1,48 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/test/test",
+    "pages/user/user"
+  ],
+  "window": {
+    "enablePullDownRefresh": true,
+    "backgroundColorTop": "orange",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#0f0",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar":{
+    "color":"#ccc",
+    "selectedColor":"#f00",
+    "backgroundColor":"#ofo",
+    "position":"bottom",
+    "list":[
+    {
+      "iconPath": "img/a3u.png",
+      "selectedIconPath":"img/a3t.png",
+      "pagePath":"pages/index/index",
+      "text":"首页",
+      "requiredBackgroundModes": {
+        "pages": [
+          "pages/index/index"
+        ],
+        "requiredBackgroundModes": [
+          "audio",
+          "location"
+        ]
+      }
+    },
+    {
+      "iconPath": "img/a3z.png",
+      "selectedIconPath": "img/a3y.png",
+      "pagePath": "pages/test/test",
+      "text": "日志"},
+    {
+      "iconPath": "img/a3s.png",
+      "selectedIconPath": "img/a3r.png",
+      "pagePath": "pages/user/user",
+      "text": "我的"}
+    ]
+  },
+  "sitemapLocation": "sitemap.json"
+}

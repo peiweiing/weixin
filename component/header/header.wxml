@@ -1,0 +1,9 @@
+<!--component/hello/hello.wxml-->
+<text>
+</text>
+<view bindtap="show" wx:for="{{title}}" wx:for-item="log" wx:key>
+  {{log.name}}
+  <view wx:for="{{log.txt}}" wx:key>
+    {{item}}
+  </view>
+</view>
