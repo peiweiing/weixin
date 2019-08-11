@@ -1,0 +1,4 @@
+<view class="flex">
+  {{title}}
+  <text bindtap="delItem">×</text>
+</view>

@@ -1,6 +1,7 @@
 {
   "navigationBarTitleText": "首页",
   "usingComponents": {
-    "my-header": "../../component/header/header"
+    "my-header": "../../component/header/header",
+    "m-list": "../component/module/list"
   }
 }

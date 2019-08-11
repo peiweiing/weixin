@@ -1,0 +1,3 @@
+<view class="flex">
+  <m-item binddel="delCource" idx="{{index}}" title="{{item}}" wx:for="{{list}}" wx:key />
+</view>
