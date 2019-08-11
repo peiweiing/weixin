@@ -46,23 +46,23 @@
     <text>新品上市</text>
     <view class="flex">
       <view>
-        <image></image>
-        <text>水密码海藻水漾盈润细肤水</text>
+        <image src="../../img/tu01.jpg"></image>
+        <text>水密码滢亮皙白滋润柔肤水120ml（补水保湿护肤品保湿水 平衡锁水 控油爽肤）</text>
+        <text>￥75</text>
+      </view>
+      <view>
+        <image src="../../img/tu02.jpg"></image>
+        <text>水密码海藻水漾盈润细肤水120ml （爽肤水 补水保湿 提亮肤色）</text>
         <text></text>
       </view>
       <view>
-        <image></image>
-        <text></text>
-        <text></text>
-      </view>
-      <view>
-        <image></image>
-        <text></text>
+        <image src="../../img/tu03.jpg"></image>
+        <text>水密码海藻盈润海洋清透洁面乳120g（洗面奶 泡沫细腻 锁水保湿）</text>
         <text></text>
       </view>
       <view>
-        <image></image>
-        <text></text>
+        <image src="../../img/tu04.jpg"></image>
+        <text>水密码滢亮皙白去角质啫喱80g（温和清洁 改善毛孔 去死皮）</text>
         <text></text>
       </view>
     </view>

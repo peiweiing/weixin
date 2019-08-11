@@ -6,14 +6,14 @@
   ],
   "window": {
     "enablePullDownRefresh": true,
-    "backgroundColorTop": "orange",
+    "backgroundColorTop": "#F5F5F5",
     "backgroundTextStyle": "light",
-    "navigationBarBackgroundColor": "#0f0",
-    "navigationBarTextStyle": "black"
+    "navigationBarBackgroundColor": "#6495ED",
+    "navigationBarTextStyle": "white"
   },
   "tabBar":{
-    "color":"#ccc",
-    "selectedColor":"#f00",
+    "color":"#87CEFA",
+    "selectedColor":"#0000FF",
     "backgroundColor":"#ofo",
     "position":"bottom",
     "list":[
