@@ -22,7 +22,7 @@
 </view>
 <view class="hotSale">
   <image class="hotSalepic" src="../../img/tu01.jpg"></image>
-  <image class="hotSalepic" src="../../img/tu02.png"></image>
+  <image class="hotSalepic" src="../../img/tu02.jpg"></image>
   <image class="hotSalepic" src="../../img/tu03.jpg"></image>
 </view>
 <view class="hotSale">

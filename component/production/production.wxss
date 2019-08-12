@@ -7,7 +7,7 @@
 }
 .productionBox{
   width: 302rpx;
-  height: 370rpx;
+  height: 452rpx;
   /* flex: 1; */
   margin-top: 10rpx;
   flex: 1;
@@ -17,7 +17,7 @@
 }
 .productionPic{
   width: 330rpx;
-  height: 280rpx;
+  height: 370rpx;
 }
 .productionTitle{
   overflow: hidden;
