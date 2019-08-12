@@ -8,24 +8,7 @@
 .flow{
   overflow: hidden;
 }
-.img{
-  width: 180rpx;
-  height: 180rpx;
-}
-.fimg{
-  width: 24%;
-  display: flex;
-  flex-flow: column;
-  text-align: center;
-  padding-bottom: 20rpx;
-}
-.f-tu{
-  width: 100%;
-  justify-content: space-around;
-  background-color: #fff;
-  margin: 0;
-  padding: 0;
-}
+
 .v-main{
   width: 50%;
   display: flex;

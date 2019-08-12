@@ -1,0 +1,22 @@
+/* component/hello/hello.wxss */
+.flex{
+  display: flex;
+}
+.fimg{
+  width: 24%;
+  display: flex;
+  flex-flow: column;
+  text-align: center;
+  padding-bottom: 20rpx;
+}
+.f-tu{
+  width: 100%;
+  justify-content: space-around;
+  background-color: #fff;
+  margin: 0;
+  padding: 0;
+}
+.img{
+  width: 180rpx;
+  height: 180rpx;
+}

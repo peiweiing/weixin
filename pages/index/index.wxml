@@ -4,24 +4,9 @@
     <image class="imgcs" src="../../img/hufu1.jpg"></image>
     <!-- <image class="imgcs" src="../../img/hufu.png"></image> -->
   </view>
-  <view class="flex f-tu">
-    <view class="fimg">
-      <image class="img" src="../../img/tubiao1.jpg"></image>
-      <text>洁面</text>
-    </view>
-    <view class="fimg">
-      <image class="img" src="../../img/tubiao2.jpg"></image>
-      <text>面霜</text>
-    </view>
-    <view class="fimg">
-      <image class="img" src="../../img/tubiao3.jpg"></image>
-      <text>乳液</text>
-    </view>
-    <view class="fimg">
-      <image class="img" src="../../img/tubiao4.jpg"></image>
-      <text>面膜</text>
-    </view>
-  </view>
+
+  <m-hello/>
+
   <view class="f-main">
     <view class="v-main v-text">
       <text class="text1">水漾轻盈洗面奶</text>
@@ -42,31 +27,9 @@
       <button>点击抢购</button>
     </view>
   </view>
-  <view class="flex">
-    <text>新品上市</text>
-    <view class="flex">
-      <view>
-        <image></image>
-        <text>水密码海藻水漾盈润细肤水</text>
-        <text></text>
-      </view>
-      <view>
-        <image></image>
-        <text></text>
-        <text></text>
-      </view>
-      <view>
-        <image></image>
-        <text></text>
-        <text></text>
-      </view>
-      <view>
-        <image></image>
-        <text></text>
-        <text></text>
-      </view>
-    </view>
-  </view>
+
+  <m-lele/>
+
 </view>
 
 
