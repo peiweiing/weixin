@@ -1,0 +1,26 @@
+<!--component/lele/lele.wxml-->
+  <view class="column">
+    <text class="d-tit">—— 新品上市 ——</text>
+    <view class="flex wrap" bindtap="lele">
+      <view class="f-img">
+        <image class="imgcs" src="../../img/tu01.jpg"></image>
+        <text>水密码滢亮皙白滋润柔肤水120ml</text>
+        <text>￥75</text>
+      </view>
+      <view class="f-img">
+        <image class="imgcs" src="../../img/tu02.jpg"></image>
+        <text>水密码海藻水漾盈润细肤水120ml</text>
+        <text>￥54</text>
+      </view>
+      <view class="f-img">
+        <image class="imgcs" src="../../img/tu03.jpg"></image>
+        <text>水密码海藻盈润海洋清透洁面乳120g</text>
+        <text>￥66-￥128</text>
+      </view>
+      <view class="f-img">
+        <image class="imgcs" src="../../img/tu04.jpg"></image>
+        <text>水密码滢亮皙白去角质啫喱80g</text>
+        <text>￥54</text>
+      </view>
+    </view>
+  </view>

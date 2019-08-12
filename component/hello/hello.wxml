@@ -1,0 +1,19 @@
+<!--component/hello/hello.wxml-->
+<view class="flex f-tu" bindtap="show">
+    <view class="fimg">
+      <image class="img" src="../../img/tubiao1.jpg"></image>
+      <text>洁面</text>
+    </view>
+    <view class="fimg">
+      <image class="img" src="../../img/tubiao2.jpg"></image>
+      <text>面霜</text>
+    </view>
+    <view class="fimg">
+      <image class="img" src="../../img/tubiao3.jpg"></image>
+      <text>乳液</text>
+    </view>
+    <view class="fimg">
+      <image class="img" src="../../img/tubiao4.jpg"></image>
+      <text>面膜</text>
+    </view>
+  </view>

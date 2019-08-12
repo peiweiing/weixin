@@ -1,6 +1,8 @@
 {
   "navigationBarTitleText": "首页",
   "usingComponents": {
+    "m-hello":"../../component/hello/hello",
+    "m-lele":"../../component/lele/lele",
     "my-header": "../../component/header/header",
     "m-list": "../component/module/list"
   }
