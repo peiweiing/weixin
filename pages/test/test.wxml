@@ -1,7 +1,38 @@
-<!--pages/test/test.wxml-->
-
-<view class="container log-list">
-  <block wx:for="{{logs}}" wx:for-item="log" wx:key>
-    <text class="log-item">{{index + 1}}. {{log}}</text>
-  </block>
+<view class="search">
+  <input class="searchBox" type="text" placeholder="请输入搜索内容" auto-focus/>
+  <button class="searchButton">搜索</button>
 </view>
+<view class="navigation">
+  <view class="detail">
+    <image class="detailPicture" src="../../img/tubiao1.jpg"></image>
+    <text class="detailText">洁面</text>
+  </view>
+  <view class="detail">
+    <image class="detailPicture" src="../../img/tubiao2.jpg"></image>
+    <text class="detailText">面霜</text>
+  </view>
+  <view class="detail">
+    <image class="detailPicture" src="../../img/tubiao3.jpg"></image>
+    <text class="detailText">乳液</text>
+  </view>
+  <view class="detail">
+    <image class="detailPicture" src="../../img/tubiao4.jpg"></image>
+    <text class="detailText">面膜</text>
+  </view>
+</view>
+<view class="hotSale">
+  <image class="hotSalepic" src="../../img/tu01.jpg"></image>
+  <image class="hotSalepic" src="../../img/tu02.png"></image>
+  <image class="hotSalepic" src="../../img/tu03.jpg"></image>
+</view>
+<view class="hotSale">
+  <image class="hotSalepic" src="../../img/tu04.jpg"></image>
+  <image class="hotSalepic" src="../../img/tu1.jpg"></image>
+  <view class="hotSalepic hotSaletext">
+    <text class="hot">HOT SALE
+      人气热卖</text>
+  </view>
+</view>
+<view class="title">--新品上市--</view>
+<!-- productionShow 通过引入组件形式 -->
+<production/>

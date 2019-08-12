@@ -1,0 +1,10 @@
+
+<view class="productionbigBox">
+  <view class="productionBox" wx:for="{{list}}">
+    <view class="center">
+      <image class="productionPic" src="{{item.src}}"></image>
+      <view class="productionTitle">{{item.title}}</view>
+      <view class="productionprice">¥{{item.price}}</view>
+    </view>
+  </view>
+</view>

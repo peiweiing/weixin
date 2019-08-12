@@ -1,0 +1,40 @@
+/* component/production/production.wxss */
+.productionbigBox{
+  width:100%;
+  display: flex;
+  flex-wrap: wrap;
+
+}
+.productionBox{
+  width: 302rpx;
+  height: 370rpx;
+  /* flex: 1; */
+  margin-top: 10rpx;
+  flex: 1;
+}
+.center{
+  text-align: center;
+}
+.productionPic{
+  width: 330rpx;
+  height: 280rpx;
+}
+.productionTitle{
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  width: 330rpx;
+  color: #353535;
+  padding:0 20rpx;
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  font-size:26rpx;
+}
+.productionprice{
+  width: 100%;
+    overflow: hidden;
+    color: #3285ff;
+    margin-top: 5px;
+    float: left;
+    font-size:26rpx;
+}

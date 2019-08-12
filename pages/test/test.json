@@ -1,4 +1,6 @@
 {
   "navigationBarTitleText": "日志",
-  "usingComponents": {}
+  "usingComponents": {
+    "production":"../../component/production/production"
+  }
 }
